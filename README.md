@@ -22,10 +22,15 @@ Then, we use the global dictionary in LRR to obtain the LRR coefficients vector 
 1 Hog.m---extract the HOG features of image patch.
 
 2 The code of LRR
+
 	solve_lrr.m
+
 	solve_l1l2.m
+
 	inexact_alm_lrr_l1l2.m, inexact_alm_lrr_l1.m
+
 	exact_alm_lrr_l1l2.m, exact_alm_lrr_l1.m
+	
 
 3 getClassLabel.m ---- set class label for each patch.
 
