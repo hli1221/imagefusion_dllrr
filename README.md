@@ -39,7 +39,7 @@ Then, we use the global dictionary in LRR to obtain the LRR coefficients vector 
 ## LRR parts
 Thr LRR method is proposed by Guangcan Liu in 2010.
 
-Liu, Guangcan and Lin, Zhouchen and Yu, Yong. 'Robust Subspace Segmentation by Low-Rank Representation'
+Liu, Guangcan and Lin, Zhouchen and Yu, Yong. 'Robust Subspace Segmentation by Low-Rank Representation'.
 International Conference on Machine Learning, pages:663-670, in 2010.
 
 And we just use this method in our paper without change.
