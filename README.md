@@ -2,6 +2,14 @@
 
 ICIG2017(oral)
 
+## The framework for fusion method
+<b>Dictionary learning</b>
+![](https://github.com/exceptionLi/imagefusion_dllrr/blob/master/framework/dictionary_learning.png)
+
+<b>Reconstructure</b>
+![](https://github.com/exceptionLi/imagefusion_dllrr/blob/master/framework/reconstructure.png)
+
+
 ## Abstract
 We propose a novel multi-focus image fusion method based on dictionary learning and LRR to get a better performance in both global and local structure. 
 
