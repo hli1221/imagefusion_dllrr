@@ -1,6 +1,6 @@
 # Multi-focus Image Fusion using dictionary learning and Low-Rank Representation
 
-"[Hui Li, Xiao-Jun Wu. Multi-focus Image Fusion using dictionary learning and Low-Rank Representation.](https://pan.baidu.com/s/1c1CFkQW)"
+"[Hui Li, Xiao-Jun Wu. Multi-focus Image Fusion using dictionary learning and Low-Rank Representation.](https://link.springer.com/chapter/10.1007/978-3-319-71607-7_59)"
 
 ICIG2017(oral)
 
