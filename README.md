@@ -58,7 +58,7 @@ And we just use this method in our paper without change.
 ```
 @misc{li2017imagefusion_dllrr,
     author = {Hui Li},
-    title = {CODE:Multi-focus Image Fusion using dictionary learning and Low-Rank Representation},
+    title = {CODE: Multi-focus Image Fusion using dictionary learning and Low-Rank Representation},
     year = {2017},
     publisher = {GitHub},
     journal = {GitHub repository},
