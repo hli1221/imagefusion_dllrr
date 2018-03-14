@@ -1,6 +1,16 @@
 # Multi-focus Image Fusion using dictionary learning and Low-Rank Representation
 
+"[Hui Li, Xiao-Jun Wu. Multi-focus Image Fusion using dictionary learning and Low-Rank Representation.](https://link.springer.com/chapter/10.1007/978-3-319-71607-7_59)"
+
 ICIG2017(oral)
+
+## The framework for fusion method
+<b>Dictionary learning</b>
+![](https://github.com/exceptionLi/imagefusion_dllrr/blob/master/framework/dictionary_learning.png)
+
+<b>Reconstructure</b>
+![](https://github.com/exceptionLi/imagefusion_dllrr/blob/master/framework/reconstructure.png)
+
 
 ## Abstract
 We propose a novel multi-focus image fusion method based on dictionary learning and LRR to get a better performance in both global and local structure. 
@@ -39,7 +49,20 @@ Then, we use the global dictionary in LRR to obtain the LRR coefficients vector 
 ## LRR parts
 The LRR method is proposed by Guangcan Liu in 2010.
 
-Liu G, Lin Z, Yu Y. Robust Subspace Segmentation by Low-Rank Representation[C]// International Conference on Machine Learning. DBLP, 2010:663-670.
+"Liu G, Lin Z, Yu Y. Robust Subspace Segmentation by Low-Rank Representation[C]// International Conference on Machine Learning. DBLP, 2010:663-670."
 
 And we just use this method in our paper without change.
 
+
+# Citation
+```
+@misc{li2017imagefusion_dllrr,
+    author = {Hui Li},
+    title = {CODE: Multi-focus Image Fusion using dictionary learning and Low-Rank Representation},
+    year = {2017},
+    publisher = {GitHub},
+    journal = {GitHub repository},
+    howpublished = {\url{https://github.com/exceptionLi/imagefusion_dllrr}}
+  }
+```
+Li H., Wu XJ. (2017) Multi-focus Image Fusion Using Dictionary Learning and Low-Rank Representation. In: Zhao Y., Kong X., Taubman D. (eds) Image and Graphics. ICIG 2017. Lecture Notes in Computer Science, vol 10666. Springer, Cham.
