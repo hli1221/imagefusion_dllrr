@@ -56,4 +56,4 @@ And we just use this method in our paper without change.
     howpublished = {\url{https://github.com/exceptionLi/imagefusion_dllrr}}
   }
 ```
-Li H., Wu XJ. (2017) Multi-focus Image Fusion Using Dictionary Learning and Low-Rank Representation. In: Zhao Y., Kong X., Taubman D. (eds) Image and Graphics. ICIG 2017. Lecture Notes in Computer Science, vol 10666. Springer, Cham.
+Li H, Wu X J. Multi-focus Image Fusion Using Dictionary Learning and Low-Rank Representation[C]//International Conference on Image and Graphics. Springer, Cham, 2017: 675-686.
