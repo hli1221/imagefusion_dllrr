@@ -11,15 +11,6 @@ ICIG2017(oral)
 <b>Reconstructure</b>
 ![](https://github.com/exceptionLi/imagefusion_dllrr/blob/master/framework/reconstructure.png)
 
-
-## Abstract
-We propose a novel multi-focus image fusion method based on dictionary learning and LRR to get a better performance in both global and local structure. 
-
-Firstly, the source images are divided into several patches by sliding window technique. Then, the patches are classified according to the Histogram of Oriented Gradient (HOG) features. And the sub-dictionaries of each class are learned by K-singular value decomposition (K-SVD) algorithm. Secondly, a global dictionary is constructed by combining these sub-dictionaries. 
-
-Then, we use the global dictionary in LRR to obtain the LRR coefficients vector for each patch. Finally, the l_1-norm and choose-max fuse strategy for each coefficients vector is adopted to reconstruct fused image from the fused LRR coefficients and the global dictionary. 
-
-
 ## Figures and data
 1 made_images and made_images_new are the source images which contain different focus region.
 
