@@ -5,6 +5,9 @@
 ICIG2017(oral)
 
 ## The framework for fusion method
+<b>Framework</b>
+![](https://github.com/exceptionLi/imagefusion_dllrr/blob/master/framework/framework_dllrr.png)
+
 <b>Dictionary learning</b>
 ![](https://github.com/exceptionLi/imagefusion_dllrr/blob/master/framework/dictionary_learning.png)
 
