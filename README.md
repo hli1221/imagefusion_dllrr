@@ -42,6 +42,8 @@ ICIG2017(oral)
 
 4 fusion_HOG_LRR.m ---- main file.
 
+5 The tool boxes of [KSVD and OMP](https://github.com/exceptionLi/imagefusion_dllrr/tree/master/KSVD_OMP)
+
 ## LRR parts
 The LRR method is proposed by Guangcan Liu in 2010.
 
