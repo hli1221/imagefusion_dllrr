@@ -40,7 +40,7 @@ ICIG2017(oral)
 
 3 getClassLabel.m ---- set class label for each patch.
 
-4 fusion_HOG_LRR.m ---- main file.
+4 fusion_dllrr.m ---- main file.
 
 5 The tool boxes of [KSVD and OMP](https://github.com/exceptionLi/imagefusion_dllrr/tree/master/KSVD_OMP)
 
