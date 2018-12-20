@@ -8,13 +8,13 @@ ICIG2017(oral)
 
 ## The framework for fusion method
 <b>Framework</b>
-![](https://github.com/exceptionLi/imagefusion_dllrr/blob/master/framework/framework_dllrr.png)
+![](https://github.com/hli1221/imagefusion_dllrr/blob/master/framework/framework_dllrr.png)
 
 <b>Dictionary learning</b>
-![](https://github.com/exceptionLi/imagefusion_dllrr/blob/master/framework/dictionary_learning.png)
+![](https://github.com/hli1221/imagefusion_dllrr/blob/master/framework/dictionary_learning.png)
 
 <b>Reconstructure</b>
-![](https://github.com/exceptionLi/imagefusion_dllrr/blob/master/framework/reconstructure.png)
+![](https://github.com/hli1221/imagefusion_dllrr/blob/master/framework/reconstructure.png)
 
 ## Figures and data
 1 made_images and made_images_new are the source images which contain different focus region.
@@ -42,7 +42,7 @@ ICIG2017(oral)
 
 4 fusion_dllrr.m ---- main file.
 
-5 The tool boxes of [KSVD and OMP](https://github.com/exceptionLi/imagefusion_dllrr/tree/master/KSVD_OMP)
+5 The tool boxes of [KSVD and OMP](https://github.com/hli1221/imagefusion_dllrr/tree/master/KSVD_OMP)
 
 ## LRR parts
 The LRR method is proposed by Guangcan Liu in 2010.
@@ -60,7 +60,7 @@ And we just use this method in our paper without change.
     year = {2017},
     publisher = {GitHub},
     journal = {GitHub repository},
-    howpublished = {\url{https://github.com/exceptionLi/imagefusion_dllrr}}
+    howpublished = {\url{https://github.com/hli1221/imagefusion_dllrr}}
   }
 ```
 Li H, Wu X J. Multi-focus Image Fusion Using Dictionary Learning and Low-Rank Representation[C]//International Conference on Image and Graphics. Springer, Cham, 2017: 675-686.
