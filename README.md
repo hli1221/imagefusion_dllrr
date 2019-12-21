@@ -58,9 +58,7 @@ And we just use this method in our paper without change.
     author = {Hui Li},
     title = {CODE: Multi-focus Image Fusion using dictionary learning and Low-Rank Representation},
     year = {2017},
-    publisher = {GitHub},
-    journal = {GitHub repository},
-    howpublished = {\url{https://github.com/hli1221/imagefusion_dllrr}}
+    note = {\url{https://github.com/hli1221/imagefusion_dllrr}}
   }
 ```
 Li H, Wu X J. Multi-focus Image Fusion Using Dictionary Learning and Low-Rank Representation[C]//International Conference on Image and Graphics. Springer, Cham, 2017: 675-686.
