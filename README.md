@@ -53,17 +53,15 @@ And we just use this method in our paper without change.
 
 
 # Citation
-For codes:
 
 ```
-@misc{li2017imagefusion_dllrr,
-    author = {Hui Li},
-    title = {CODE: Multi-focus Image Fusion using dictionary learning and Low-Rank Representation},
-    year = {2017},
-    note = {\url{https://github.com/hli1221/imagefusion_dllrr}}
-  }
+@inproceedings{li2017multi,
+  title={Multi-focus image fusion using dictionary learning and low-rank representation},
+  author={Li, Hui and Wu, Xiao-Jun},
+  booktitle={International Conference on Image and Graphics},
+  pages={675--686},
+  year={2017},
+  organization={Cham, Switzerland: Springer}
+}
 ```
 
-For paper: 
-
-Li H, Wu X J. Multi-focus Image Fusion Using Dictionary Learning and Low-Rank Representation[C]//International Conference on Image and Graphics. Springer, Cham, 2017: 675-686.
