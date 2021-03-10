@@ -1,5 +1,7 @@
 # Multi-focus Image Fusion using dictionary learning and Low-Rank Representation
 
+[Hui Li](https://hli1221.github.io/), Xiao-Jun Wu*  
+
 SpringerLink: https://link.springer.com/chapter/10.1007/978-3-319-71607-7_59
 
 arXiv: https://arxiv.org/abs/1804.08355
